@@ -3,7 +3,7 @@
 
     Title: Library Management System Project
 
-    Authors: Diego Munoz Bodden, Fabian Ho Chang, and Thuy Le
+    Authors: Diego MB, Fabian Ho Chang, and Thuy Le
 
     Description:
         This project is meant to simulate the functions of a library via the use of a Library class. This Library class
